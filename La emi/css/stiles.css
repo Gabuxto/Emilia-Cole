@@ -1,0 +1,20 @@
+body { background-image: url(../img/home.jpg);
+    background-repeat: no-repeat;
+    background-position:right top;
+    background-size: 75%;
+    color: black;
+    font-family: "open sans",sans-serif;text-transform: uppercase}
+
+.home-ul{list-style: none;color: black;text-transform: uppercase}
+
+.home-ul li a{text-decoration: none;letter-spacing: 5px;;}
+
+h2
+{font-family: "work sans";letter-spacing: 5px;}
+
+H1{background-color: rgba(255, 255, 255,0.5);
+    text-transform: uppercase;
+    font-family: "raleway";
+    letter-spacing: 5px;text-decoration:bold ; }
+
+
